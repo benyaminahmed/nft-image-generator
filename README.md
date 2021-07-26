@@ -16,4 +16,4 @@ pip install display
 
 4. First time you run notebook, it will ask you to install ipykernel, accept this.
  
-5. If the programme executes successfully, it will output all the generated images to the /images folder, and the metadata to the /metadata folder. The filenames will refer to tokenIds. 
+5. If the program executes successfully, it will output all the generated images to the /images folder, and the metadata to the /metadata folder. The filenames will refer to tokenIds. 

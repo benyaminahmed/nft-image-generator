@@ -1,0 +1,22 @@
+{
+  "name": "nft-image-generator",
+  "version": "1.0.0",
+  "description": "Python Notebook in Jupyter that will generate a series of unique images using a collection of layers.",
+  "main": "updateMetadataOpenSea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyaminahmed/nft-image-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyaminahmed/nft-image-generator/issues"
+  },
+  "homepage": "https://github.com/benyaminahmed/nft-image-generator#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

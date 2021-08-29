@@ -36,6 +36,6 @@ jupyter notebook
 
 7. Run the commands in [generate.ipynb] to generate images.
 
-9. First time you run notebook, it will ask you to install ipykernel, accept this.
+8. First time you run notebook, it will ask you to install ipykernel, accept this.
  
-10. If the program executes successfully, it will output all the generated images to the /images folder, and the metadata to the /metadata folder. The filenames will refer to tokenIds. 
+9. If the program executes successfully, it will output all the generated images to the /images folder, and the metadata to the /metadata folder. The filenames will refer to tokenIds. 

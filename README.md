@@ -14,22 +14,12 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
 ```
 
-3. Install Python Pillow
+3. Install requirements
 ```
-pip install pillow
-```
-
-4. Install Python display
-```
-pip install display
+pip install -r requirements.txt
 ```
 
-5. Install Jupyter Notebook
-```
-pip install jupyter 
-```
-
-6. Run Jupyter in your nft-image-generator folder
+4. Run Jupyter in your nft-image-generator folder
 ```
 jupyter notebook
 ```
